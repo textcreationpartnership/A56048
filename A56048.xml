@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals moderately offered for the full peopleing and inhabiting the city of London and to restore the same to her antient flourishing trade, which will sute with her splendid structure.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56048</idno><idno type="EEBO-CITATION">12427091</idno>
+  <idno type="VID">61910</idno>
+  <idno type="EEBO-PROQUEST">2240957281</idno>
+  
+            <idno type="STC">Wing P3763</idno>
+            <idno type="STC">ESTC R13829</idno>
+            <idno type="OCLC">12427091</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61910)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 947:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals moderately offered for the full peopleing and inhabiting the city of London and to restore the same to her antient flourishing trade, which will sute with her splendid structure.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61910:1"/>
+            <pb facs="tcp:61910:1"/>
+            <p>PROPOSALS Moderately offered for the full PEOPLEING AND INHABITING THE CITY OF LONDON, And to restore the same to her antient flou<g ref="char:EOLhyphen"/>rishing Trade, which will sute with her splendid Structure.</p>
+            <p>
+               <hi>LONDON</hi> Printed in the Year, 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals_for_populating_London">
+            <pb facs="tcp:61910:2"/>
+            <pb n="3" facs="tcp:61910:2"/>
+            <head>PROPOSALS Moderately offered for the full PEOPLING and INHABITING The City of LONDON, &amp;c.</head>
+            <p>HAving oftentimes with much reluctancy of Spirit, seen whole Streets of Houses new built within this City, standing uninha<g ref="char:EOLhyphen"/>bited, and no Person so much as askes the price of any, hath occasioned this <hi>Essay,</hi> as a pro<g ref="char:EOLhyphen"/>per Expedient to remedy the same. The nobleness of the Fabrick, the pleasantness of the Scite, and Commo<g ref="char:EOLhyphen"/>dious part for Trade, with all things desireable for the life of Mankind, would invite Inhabitants enough, If the main Obstruction were taken away.</p>
+            <p>This hath given cause of divers Considerations, and the reason why the Out parts about the City, are inhabited assoon as built, and the Houses yielding good Rents.</p>
+            <p>In the days of King <hi>Edgar,</hi> Records testifie,
+<note place="margin">Stow.</note> that the City of <hi>London</hi> was made a <hi>Franchise,</hi> or <hi>Freedom,</hi> (as it is called) that there is now above 500 Shops and Houses, for one that was in those dayes, or in some Centuries of years since.</p>
+            <pb n="4" facs="tcp:61910:3"/>
+            <p> Let it be rationally considered how it could be other<g ref="char:EOLhyphen"/>wise, when there were within the Walls of the City of <hi>London,</hi> four Kings Palaces, twenty eight Religious Houses, Bishops and Deans Palaces, thirty Noblemens Houses; All which had Gardens, Yards, Out houses, Courts and large Apartments; also most Merchants Houses in those dayes had large Apartments, all which now are reduced into Tenements close built.</p>
+            <p>And in the dayes of <hi>Ed.</hi> IV. and since, few Noblemen had less then 400 Men Servants to attend them; Which may clearly convince any Person, that these Monaste<g ref="char:EOLhyphen"/>ries and Palaces, took up most part of the City.</p>
+            <p>Since time hath altered the property thereof, and People much increasing, yet being denyed the liberty of using or exercising any Trade in the <hi>Freedom</hi> (so called) of the City, unless they acquire the same by Purchase or Servitude. This is the main and onely cause of the Non<g ref="char:EOLhyphen"/>peopling this New-built Fabrick.</p>
+            <p>The People of this Kingdom increasing to a great mul<g ref="char:EOLhyphen"/>titude, and the thing called the <hi>Freedom,</hi> barring all those who have not served their Term to a Freeman, or otherwise purchased the same, to be the trading Inhabi<g ref="char:EOLhyphen"/>tants within the limits of the said Freedom, was cer<g ref="char:EOLhyphen"/>tainly the <hi>Primum-mobile</hi> of the Building so many Houses, or rather Cities, in the out-Parts about this City, and they inhabited assoon as built, and flourish in Trade; many Houses yielding better Rents than those by the <hi>Royal Exchange.</hi>
+            </p>
+            <pb n="5" facs="tcp:61910:3"/>
+            <p> It is obvious to every Eye, the flourishing Trade and Condition of multitudes who inhabit the Burrough of <hi>Southwark,</hi> and Parts adjoyning, which antiently consisted of Religious-houses, Bishops Palaces, and Houses of Noblemen, being now all built into Tenements, is more populous than any City in <hi>England,</hi> the onely Cause is Exemption from the thing, (mistaken or misnamed <hi>Free<g ref="char:EOLhyphen"/>dom</hi>) but it is a real Freedom, all Persons exercising Trades in that place with free Liberty, and in other Parts adjacent.</p>
+            <p>It is humbly proposed, That it will be of essential Be<g ref="char:EOLhyphen"/>nefit, to have this City forthwith inhabited, if they might have free liberty of Trading; And so clear a Maxim which none can deny, That the People make a Market, not the Market-place.</p>
+            <p>And that where there is a vast Community of People, there cannot be want of Trade.</p>
+            <p>It is as obvious and clear as the Sun upon the Meridian, that where there is a whole Street or Place all of one Trade, that that particular Trade in that place, flourishes better than where they are soarce, or promiscuously intermixed one among another.</p>
+            <p>That this City by reason of it's commodious Scitua<g ref="char:EOLhyphen"/>tion, and Reception, is the first rebound of all Goods; And being now newly adorned with such sweet and beautiful convenient Dwellings, aptly prepared for all Trades, cannot but be forthwith Inhabited, if the City would admit all Merchants, Tradesmen, and Artificers to be Free of the same City for 20 <hi>s.</hi> Frank of all other charge, he or they taking a House within the same City for 21 years at least.</p>
+            <p>There is no doubt but the People of <hi>Holland,</hi> will
+<pb n="6" facs="tcp:61910:4"/>forthwith come and inhabit this City, if not prevented and amused by some of their <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Correspondents here, who have great profits from them by their Factory. And these being of the Genealogy of <hi>Alexander</hi> the Copper-Smith, for fear of loosing their private profit, will amaze and detam them from coming into the City, with their affrighting Arguments deduced from this Text, <hi>viz.</hi> The great charge of obtaining the Freedom of the City, <hi>and of being a Freeman therein,</hi> or the impossibility of using any Trade there without it.</p>
+            <p>That it is humbly conceived, this Remedy lies solely and properly in the power of the <hi>Lord Mayor,</hi> and <hi>Court</hi> of <hi>Aldermen:</hi> For they now, and at all times heretofore, have admitted any Subject to be free of any Company, and to enjoy all Rights and Priviledges thereunto belonging, either by Purchase for about 30 <hi>l.</hi> or favour, often bestowed upon some Noblemans Letter.</p>
+            <div type="part">
+               <head>Reasons to induce all Persons to desire the Freedom of the City.</head>
+               <p n="1">1. A Citizen hath commonly a competent Portion with a Wife, for that if he dye without Issue, the VViddow enjoys half his Estate; and if with Children, a third part, which the Husband cannot give from her, besides what she secretly secures to her self in her Chamber, <hi>&amp;c.</hi> and their Orphans Portions are well secured, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. VVives of all sorts, upon the foregoing reason, may cheerfully induce their Husbands to come and be free Inhabitants of the City.</p>
+               <p>
+                  <hi>Object.</hi> It may be probably objected, That many will dread to come into the City, because of the great charge amongst their Company they come to be Free of;
+<pb n="7" facs="tcp:61910:4"/>and Parochial charge, which may stand a man in bearing Offices, a Childes Portion.</p>
+               <p>
+                  <hi>Answ.</hi> This may be remedied by the Court of Alder<g ref="char:EOLhyphen"/>men, by ordering none to pay above a fourth part to the Company of what hath been paid, which is all clear gains to the company; And to moderate the Fines for not serving of Offices in Parishes.</p>
+               <p n="2">2. It may be said by People whose Eyes are evil be<g ref="char:EOLhyphen"/>cause others are good; That there is no reason they having serv'd a Time, and paid so much money in their Company, and a Stranger without Service should enjoy the same Priviledge, upon such easie Rates.</p>
+               <p>
+                  <hi>Answ.</hi> That is soon answered; for they will not onely help to bear the burden of both Company, Parish, and pub<g ref="char:EOLhyphen"/>lick Taxes, but be the means of increasing Trade, and quick disposal of Commodities in the place, and inviting Customers by the greater choice of Commodities.</p>
+               <p>Lastly, It seems undeniable, (if this <hi>Proposal</hi> take its desired effect,) That the City will alwayes be in a ready capacity to furnish and assist His Majesty, whensoever ur<g ref="char:EOLhyphen"/>gent affairs of the Kingdom requires it, both with Men and Money.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:61910:5"/>
+            <head>Postscript.</head>
+            <p>
+               <hi>IF this my</hi> Essay <hi>or</hi> Proposals, <hi>published out of my zealous Well-wishes to the future hap<g ref="char:EOLhyphen"/>piness of this Antient, Renowned and Honorable City, shall attain to its desired success, it will be an Encouragement to me to speed the Publication of certain Papers, upon serious Consideration, orderly digested for the prevention of Fire; And the Office of Ensurance of Houses and Goods from damage by Fire, at the Rate of one pound</hi> per cent. <hi>Rent</hi> per annum; <hi>which hath for several Moneths been seriously debated with very many judicious Persons within this City.</hi>
+            </p>
+            <byline>By <hi>Londinophilos.</hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61910:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
